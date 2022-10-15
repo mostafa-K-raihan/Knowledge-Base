@@ -1,0 +1,6 @@
+- Can you tell me what happens when user type an URL and hit enter?
+- what happens to server side and client side?
+- how to make the connection secure?
+- Man In the Middle attack?
+- difference between assymetric and symmetric key encryption and their use cases?
+- Code -> given two strings A, B, find all/any substrings of A which is an anagram of B

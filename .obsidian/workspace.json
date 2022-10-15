@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0a19ae37b630e9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8670ba987f9deec3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "111841919b5e8fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions/Bolt Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee004c3be93ee8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/What happens when you type something in the browser and hit enter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e14e0b86b1e63dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Assymetric & Symmetric key encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69590a0569a9f660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Man in the Middle Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b901c275379ee2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions/Amazon Interview Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4ad1319c703880e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e39b7775c2ef8c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2389bfbd72684589",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f4143f672fdb5e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbdf91eb751c0dc5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b19baaa9de4294df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80cd23aeae8aa15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379472527c49bfd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research/Man in the Middle Attack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "109cc6953e3850dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research/Man in the Middle Attack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "561f566e1a18431e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "886717a09d1481c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research/Man in the Middle Attack.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "69590a0569a9f660",
+  "lastOpenFiles": [
+    "Leetcode/Sliding Window/Untitled.md",
+    "Leetcode/Sliding Window/Longest Repeating Character Replacement.md",
+    "Research/Man in the Middle Attack.md",
+    "Research/Assymetric & Symmetric key encryption.md",
+    "Research/What happens when you type something in the browser and hit enter.md",
+    "Interview Questions/Bolt Interview Questions.md",
+    "Interview Questions/Amazon Interview Test.md"
+  ]
+}

@@ -1,0 +1,1 @@
+- Given a list of login user names as strings, find number of pairs that can be part of a shared login, a shared login user names can be defined as such - abc and bcd are part of a shared login because, bcd is just one character right shifted.
