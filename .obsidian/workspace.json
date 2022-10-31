@@ -56,6 +56,86 @@
             }
           },
           {
+            "id": "f6e397565e1d46d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions/Beam Interview Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a075fc6954e0249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/DP/Maximal Square.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b03040050647d354",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f01e81c49ce5fa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Fixup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de6c37f1c46ae5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb1fe15f2cf8d210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Sliding Window/Container With Most Water.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5d31c7f8fc2b10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Fixup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b901c275379ee2b4",
             "type": "leaf",
             "state": {
@@ -68,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -118,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19baaa9de4294df",
@@ -134,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Man in the Middle Attack.md",
+                "file": "Git/Git Fixup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Man in the Middle Attack.md",
+                "file": "Git/Git Fixup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Man in the Middle Attack.md"
+                "file": "Git/Git Fixup.md"
               }
             }
           }
@@ -185,17 +266,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "69590a0569a9f660",
+  "active": "2389bfbd72684589",
   "lastOpenFiles": [
-    "Leetcode/Sliding Window/Untitled.md",
+    "Leetcode/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "Leetcode/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Leetcode/Sliding Window/Longest Repeating Character Replacement.md",
-    "Research/Man in the Middle Attack.md",
-    "Research/Assymetric & Symmetric key encryption.md",
-    "Research/What happens when you type something in the browser and hit enter.md",
-    "Interview Questions/Bolt Interview Questions.md",
-    "Interview Questions/Amazon Interview Test.md"
+    "Leetcode/DP/Coin Change 2.md",
+    "Leetcode/DP/Maximal Square.md",
+    "Leetcode/Sliding Window/Container With Most Water.md",
+    "Leetcode/Sliding Window/Pasted image 20221029090417.png",
+    "Git/Git Fixup.md",
+    "Interview Questions/Beam Interview Question.md",
+    "Research/Man in the Middle Attack.md"
   ]
 }

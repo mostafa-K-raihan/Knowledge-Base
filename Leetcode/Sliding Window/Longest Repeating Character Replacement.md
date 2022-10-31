@@ -20,7 +20,7 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 
 **Constraints:**
 
--   `1 <= s.length <= 105`
+-   1 <= s.length <= 10<sup>5</sup>
 -   `s` consists of only uppercase English letters.
 -   `0 <= k <= s.length`
 
