@@ -1,0 +1,4 @@
+- Debugging nock
+	- `DEBUG=nock.* yarn test`
+- Get a single file from github
+	- curl -OL https://raw.githubusercontent.com/<username>/<repo-name>/<branch-name>/path/to/file

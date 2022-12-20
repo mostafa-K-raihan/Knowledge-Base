@@ -1,0 +1,3 @@
+- Webpack chunk why the stc files are still included in app.js
+- react query how it helps speed up things?
+- 

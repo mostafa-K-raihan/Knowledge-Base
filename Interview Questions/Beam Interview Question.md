@@ -12,3 +12,9 @@
 - given a grid of 1/0, compute maximum square length full of 1
 	- [Maximal Square](https://leetcode.com/problems/maximal-square/)
 	- Couldn't solve it, was thinking of dfs
+
+
+### Telephone Round
+- find middle of the linked list
+- given a city and countries table, output country with number of cities from highest to lowest
+- given an array, find the starting of the maximum sum of the subarray

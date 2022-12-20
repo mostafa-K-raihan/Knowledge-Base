@@ -1,0 +1,226 @@
+- Must understand business process to be modelled.
+	- can't *build* something you can't *design*
+	- can't *design* something you can't *describe*
+	- so *describe* ==> *design* ==> build
+- HTTP is expressive
+- API design is complex
+	- game of tradeoffs
+	- design must be deliberate
+		- what to expose
+		- how to expose
+		- test assumptions
+	- challenges
+		- naming
+		- describe how to interact with things
+		- evolve goals and purpose
+		- adjust accordingly
+		- backward compatibility
+	- Affordance
+		- perform a action
+		- door knob
+			- allow opening a door
+		- switch
+			- allow turning on/off switch
+	- When considering an API design
+		- potential risks
+			- what allows to do 
+			- what it makes it easy
+			- what the user wants to do
+		- Functionality
+		- Ease
+		- User Needs
+	- Bolt on strategy
+		- Brute force
+		- Existing systems
+		- bad naming convention
+	- Greenfield
+		- for new systems
+		- API first
+		- new tech
+		- delayed business value
+	- Facade
+		- in between
+		- take advantage of exisitng systems
+	* Dont worry about tools
+	* Have a consistent process
+		* involve teams early
+		* various perspective will help
+	* It doesn't count unless it's written down
+		* Assumptions
+		* Decisions
+		* Deferred tasks
+
+
+### Support the Business
+- Identify Participants:
+	- who will use the API
+		- Name and role
+		- External/Internal
+		- Active (taking an action)/Passive (waiting for an action)
+		- Boundaries
+- Identify Activities
+	- place an order
+	- wait for an order
+	- enjoy the coffee
+	- reference the participants, and dependencies
+	- order book onlline?
+		- who are participants?
+			- customers
+			- system admin X
+			- developers X
+			- stock clerk: ship the order
+			- customer support
+		- activitites:
+			- order a book
+				- the customer searches for the book
+				- the customer adds the book to their cart
+				- ... adds or removes more things
+				- check out
+				- the stock clert retriee and ships the book
+				- support contacts the customer if it is not available
+- Create API definitions
+	- View Items
+	- Add to cart
+	- Place order
+	- what are the resources? nouns
+		- Items
+		- Cart
+		- Order
+	- Dont make assumptions
+- API relationship
+	- Independent
+		- movies & actors
+		- Items
+	- Dependent
+		- chars in movies
+		- Carts on Items
+		- Orders on carts
+		- Orders on customers
+	- Associative
+		- actors in different stages in life, adult, kids
+- Validate API
+	- Microframeworks - hapi.js
+	- documentation
+		- describe endpoints
+		- list params
+		- status code
+		- not necessary to be perfect, goal is
+		- clear, concise, for the feedback
+- HTTP is a protocol
+- XML is a markup lang
+- JSON is a notation
+- REST is not anything above
+	- set of principles
+	- SOAP
+		- fixed process
+		- tonnes of documentation
+		- detail scenarios
+		- complex error handling
+	- REST
+		- few req
+		- discovered as u go
+		- flexible, based on needs
+		- flexible, based on patterns
+		- introduce ambiguity
+	- HTTP
+		- header
+		- payload
+		- status codes
+			- 200 OK
+			- 201 created
+			- 202 accepted action has started
+			- 204 no content delete a resource
+			- 301 move permanently
+			- 302 move temporarily
+			- 400 bad request
+			- 401 authentication required
+			- 403 forbiden was auth, was understood, but failed
+			- 404 not found
+			- 1xx Informational
+			- 2xx success
+			- 3xx redirect
+			- 4xx client error
+			- 5xx server error
+		- Dont create your iw response status code
+		- Content type
+
+### Rest API Constraints
+- client server architechture
+- stateless
+	- each request on of its own 
+	- order does not matter
+	- more stability, scalability
+	- no need shared things
+	- reliable
+- cacheable
+	- improve network perf
+	- fastest req is what u dont have to perform
+	- idempotent or safe commands
+		- GET : Cacheable
+- Layered system:
+	- web servers -> DB
+	- gives us flexibility to improve
+- Code on demand
+	- load js file
+	- don't need to know what's in it
+	- just need to know how to execute it
+- Uniform interfaces
+	- identification of resources
+	- manipulation of resources
+		- having id as a part of the URL, not just pass the id to the URL
+	- self descriptive message
+	- HATEOAS
+		- Hypermedia as the engine of application state
+		- choose your own adventure book
+			- each time you are given a choice
+			- you go in one page or other
+			- each link will be available 
+
+## API design pattern
+- authn: who u are
+- authz: what u r allowed to do
+	- API Keys
+		- appended in the URL
+		- or header
+		- NOT Secret
+		- difficult to update
+	- Dont write your own protocol
+		- have to train
+		- no support
+	- OAuth
+	- OAuth2.0
+		- complicated
+		- init implementation is hard
+- Version
+	- via URL
+		- clear and explicit
+	- via accept header
+		- content negotiation
+		- markup
+		- media type
+		- media type version
+- Content and Media Type
+	- JSON
+		- easy to read
+		- difficult to extend and detail about data
+	- Media Type
+		- Collection + JSON
+		- HAL: Hypertext Application Language
+			- data
+			- _links
+			- verbose
+		- Ion Hypermedia
+- ETags
+	- Clients make a req
+	- server responds and creates an ETag based on the resource state
+	- client makes a HEAD 
+	- if data is unchanged, server returns same ETag - Complete
+	- if data is changed, different ETag is returned - Full request is necessary
+- Doc
+	- Dont use PDF
+	- Dont use Wordpress and basic CMS
+	- Goals?
+		- snippet friendly
+		- versioning history
+		- easy to update
+		- searchable

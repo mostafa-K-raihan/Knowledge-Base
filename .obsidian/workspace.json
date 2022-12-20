@@ -4,151 +4,199 @@
     "type": "split",
     "children": [
       {
-        "id": "8670ba987f9deec3",
+        "id": "c0eaee1b2a629aff",
         "type": "tabs",
         "children": [
           {
-            "id": "111841919b5e8fb1",
+            "id": "3e1c9d9fca65493e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions/Bolt Interview Questions.md",
+                "file": "Work/Kingfisher/CMS API clarification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee004c3be93ee8b4",
+            "id": "b47872f31bcb9b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/What happens when you type something in the browser and hit enter.md",
+                "file": "Work/STC/Possible Work.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e14e0b86b1e63dd",
+            "id": "dd585a05a7193d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Assymetric & Symmetric key encryption.md",
+                "file": "Work/STC/Language Picker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69590a0569a9f660",
+            "id": "a671bdebc8afb75a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Man in the Middle Attack.md",
+                "file": "Leetcode/Tree/Maximum Product of Splitted Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6e397565e1d46d7",
+            "id": "e0e3e76ce2e39bdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/Beam Interview Question.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a075fc6954e0249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/DP/Maximal Square.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b03040050647d354",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "f01e81c49ce5fa1c",
+            "id": "81cc09358202e03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Fixup.md",
+                "file": "Leetcode/Tree/Binary Tree Maximum Path Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de6c37f1c46ae5a0",
+            "id": "5d14ce6f99d7c165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "Work/STC/Language Picker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb1fe15f2cf8d210",
+            "id": "0b8cffabd2af5ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Sliding Window/Container With Most Water.md",
+                "file": "Work/STC/Language Picker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5d31c7f8fc2b10c",
+            "id": "362bead93d2cd01a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Fixup.md",
+                "file": "Leetcode/DP/Minimum Falling Path Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b901c275379ee2b4",
+            "id": "9c268d3d0ab034e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions/Amazon Interview Test.md",
+                "file": "Leetcode/DP/House Robber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6957a9cb135583da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/DP/Longest Common Subsequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554ac13ccb0ed851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ffc38e7447b9e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Stack/Evaluate Reverse Polish Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47d39990cd6b61b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Stack/Daily Temperatures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e381ca7542e177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Kingfisher/CMS API clarification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfed9b0653f1c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Graph/Keys and Rooms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -198,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b19baaa9de4294df",
@@ -215,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Fixup.md",
+                "file": "Leetcode/Graph/Keys and Rooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Fixup.md",
+                "file": "Leetcode/Graph/Keys and Rooms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Fixup.md"
+                "file": "Leetcode/Graph/Keys and Rooms.md"
               }
             }
           }
@@ -263,20 +310,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2389bfbd72684589",
+  "active": "379472527c49bfd2",
   "lastOpenFiles": [
-    "Leetcode/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Leetcode/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Leetcode/Sliding Window/Longest Repeating Character Replacement.md",
-    "Leetcode/DP/Coin Change 2.md",
-    "Leetcode/DP/Maximal Square.md",
-    "Leetcode/Sliding Window/Container With Most Water.md",
-    "Leetcode/Sliding Window/Pasted image 20221029090417.png",
-    "Git/Git Fixup.md",
-    "Interview Questions/Beam Interview Question.md",
-    "Research/Man in the Middle Attack.md"
+    "Work/Kingfisher/CMS API clarification.md",
+    "Work/STC/API performance improvement.md",
+    "Leetcode/Graph/Find if Path Exists in Graph.md",
+    "Leetcode/Stack/Daily Temperatures.md",
+    "Leetcode/Stack/Evaluate Reverse Polish Notation.md",
+    "Leetcode/Untitled.md",
+    "Reflection.md",
+    "Leetcode/Arrays & Hashing/Implement Queue using Stack.md",
+    "Leetcode/DP/Longest Common Subsequence.md",
+    "Leetcode/DP/House Robber.md"
   ]
 }
