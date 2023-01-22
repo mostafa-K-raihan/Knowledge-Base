@@ -1,0 +1,2 @@
+character => char
+boolean => bool

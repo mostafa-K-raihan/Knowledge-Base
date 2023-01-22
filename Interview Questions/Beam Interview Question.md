@@ -15,6 +15,6 @@
 
 
 ### Telephone Round
-- find middle of the linked list
+- find middle of the linked list [here](obsidian://open?vault=knowledge-base&file=Leetcode%2FDecember%202022%2FMiddle%20of%20the%20Linked%20List)
 - given a city and countries table, output country with number of cities from highest to lowest
 - given an array, find the starting of the maximum sum of the subarray

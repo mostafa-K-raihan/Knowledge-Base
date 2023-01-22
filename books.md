@@ -1,2 +1,4 @@
 - sociopath next door
 - Land of desire - William Leach
+- Hold On to Your Kids: Why Parents Need to Matter More Than Peers
+- Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive
