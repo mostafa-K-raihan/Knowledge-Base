@@ -1,0 +1,3 @@
+- Will we be able to edit the content inline? separate ticket?
+- how will it look when we get back from the full screen mode?
+- who will trigger the API call for creating the content? ContentTab/New Component?
